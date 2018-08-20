@@ -1,0 +1,8 @@
+etc/apparmor.d/force-complain
+etc/chrony
+etc/logrotate.d
+etc/NetworkManager/dispatcher.d
+etc/ppp/ip-up.d
+etc/ppp/ip-down.d
+var/log/chrony
+var/lib/chrony
