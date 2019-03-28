@@ -1,3 +1,10 @@
+chrony (3.2-4ubuntu4.2bb1) bionic; urgency=medium
+
+  * Balabit patched version
+  * cherry-picked patch for chrony client issue with invalid timeout
+
+ -- Balabit Platform Team <devnull@dev.null>  Thu, 28 Mar 2019 09:36:00 +0100
+
 chrony (3.2-4ubuntu4.2) bionic; urgency=medium
 
   * d/p/lp-1787366-fall-back-to-urandom.patch: avoid hangs when starting
