@@ -1,3 +1,9 @@
+chrony (3.2-4ubuntu4.4bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Sat, 25 Apr 2020 04:23:41 +0200
+
 chrony (3.2-4ubuntu4.4) bionic; urgency=medium
 
   * fix autopkgtest to continue working in Bionic
